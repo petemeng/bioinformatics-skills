@@ -1,0 +1,45 @@
+# Private source material
+source/
+sources/
+private/
+scratch/
+notebooks/
+*.R
+*.Rmd
+*.qmd
+*.ipynb
+*.sh
+
+# Raw/intermediate microbiome data
+data/
+raw/
+results/
+logs/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fa
+*.qza
+*.qzv
+*.biom
+*.bam
+*.sam
+*.vcf
+*.vcf.gz
+
+# R/Python local state
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
