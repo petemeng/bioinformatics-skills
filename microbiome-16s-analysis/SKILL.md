@@ -12,7 +12,7 @@ Use this skill to build reproducible 16S microbiome analysis workflows without r
 Read only the relevant reference files:
 
 - For QIIME 2, DADA2, ASV/OTU tables, taxonomy parsing, diversity, ordination, composition, LEfSe, or differential abundance, read `references/16s.md`.
-- For root hair mutant, drought microbiome, rhizosphere/endosphere, betaNTI/RCbray community assembly, network hub, Rhizobiaceae/beneficial isolate validation, or analyses inspired by the Root-hair-mutants-microbiome public repository, read `references/root-hair-microbiome-paper.md`.
+- For plant/root microbiome modules beyond the baseline 16S workflow, including root/rhizosphere/endosphere designs, drought or treatment-by-compartment-by-genotype PCoA/PERMANOVA, betaNTI/RCbray community assembly, differential ASV taxonomy overview plots, network hubs, metagenome/metabolome integration, or beneficial isolate validation, read `references/plant-root-microbiome-analyses.md`.
 - For ggplot2, ordination plots, stacked taxonomic bars, LDA bars, heatmaps, palettes, and export dimensions, read `references/visualization.md`.
 - For project layout, conda/R environments, reproducibility, privacy-safe paths, and command logging, read `references/environment.md`.
 
