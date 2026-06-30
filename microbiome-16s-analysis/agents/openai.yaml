@@ -1,4 +1,4 @@
 interface:
   display_name: "16S Microbiome Analysis"
-  short_description: "Reusable workflows for 16S microbiome analysis."
-  default_prompt: "Use $microbiome-16s-analysis to plan a reproducible 16S microbiome workflow with publication-ready plots."
+  short_description: "Reusable workflows for 16S microbiome analysis and Qmd reports."
+  default_prompt: "Use $microbiome-16s-analysis to plan a reproducible 16S downstream analysis as a Quarto Qmd report with publication-ready plots."
